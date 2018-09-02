@@ -7,4 +7,4 @@ rnnoise\
 google/styleguide\
 google/resonance-audio\
 fftw3\
-kfrlib/kfr\
+kfrlib/kfr
