@@ -1,11 +1,11 @@
 # Common Software
 
-Google Chrome\
+Edge\
 BandZip\
 PotPlayer\
 Everything\
 MATLAB\
-Visual Studio 2015 Community\
+Visual Studio 2019 Community\
 Visual Studio Code\
 TexLive\
 Microsoft Office Word\
@@ -20,10 +20,4 @@ UE4\
 CUDA Toolkit\
 ASIO4ALL\
 Anaconda3\
-Tensorflow\
-TeamViewer\
-QQ/TIM\
-微信\
-邮箱大师\
-有道词典\
-有道云笔记
+Pytorch
